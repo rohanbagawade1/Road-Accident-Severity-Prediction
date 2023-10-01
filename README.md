@@ -14,3 +14,22 @@ Models used in this project:
 4.XGBoost Random Forest Classifier
 5.Gaussian Naive Bayes Classifier
 6.K-NN Classifier
+
+# PROBLEM STATEMENT
+
+A thorough examination is needed to address the staggering incidence of traffic accidents in a community. By utilizing various supervised learning approaches, this investigation will be carried out in greater depth to ascertain the severity of the traffic incidents. On an integer rating of 1 to 4, this will categorize the accidents' seriousness. Our ability to assess and lessen the severity of incidents will enable us to lower the number of fatalities and the resulting monetary damages. 
+
+
+# PROJECT OBJECTIVES 
+
+1.To investigate the causes of the accident by extracting features from the provided inputs.
+2.To comprehend the accident's seriousness based on factors like severity score. 
+3.To categorize accidents according to the degree of seriousness of the incident using a rating system that ranges from 1 to 4.
+4.To apply various machine learning algorithms and determine each one's accuracy and performance.
+5.To determine the quickest algorithm.
+6.must comprehend how each aspect affected the disaster and determine how much of it was to blame. 
+7.Additionally, a web UI should be offered so that estimations may be made and parameters can be calculated.
+
+
+
+
